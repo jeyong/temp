@@ -22,6 +22,7 @@ make px4_sitl jmavsim
 * 시뮬레이션 화면이 보이면 성공
 
 ## Pixawk 빌드하기
+* 터미널 열기
 ```bash
 cd ~/projects/PX4-Autopilot
 make px4_fmu-v5_default
